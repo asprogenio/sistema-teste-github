@@ -11,5 +11,8 @@
 <body>
 	<h1>Bem vindo ao GitHub!</h1>
 	Agora são: <%= new SimpleDateFormat("hh:mm:ss").format(new Date()) %>
+	<h1>Bem vindo ao GitHub!</h1>
+	Agora são: <%= new SimpleDateFormat("hh:mm:ss").format(new Date()) %>
+	
 </body>
 </html>
